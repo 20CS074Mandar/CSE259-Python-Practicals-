@@ -1,0 +1,9 @@
+Id :- 20CS074
+Name :- Mandar Sanghavi
+Batch :- 4CSE2-A2
+
+CE-259 PIP 
+
+->Practical-2
+    
+   Github Repo :- https://github.com/20CS074Mandar/CSE259-Python-Practicals-/tree/master/Practical-2      
