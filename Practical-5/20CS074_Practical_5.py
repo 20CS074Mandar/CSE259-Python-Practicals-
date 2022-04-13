@@ -12,3 +12,7 @@ for i in s:
     else:
         res+=i.upper()
 print(res)
+
+
+print("\nId : 20CS074 ")
+print("Name : Mandar Sanghavi\n")
