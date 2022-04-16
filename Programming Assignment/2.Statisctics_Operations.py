@@ -10,3 +10,5 @@ num_list = [int (x) for x in input("Enter values :- ").split()]
 # print("Variance : ",statistics.variance(num_list))
 
 print(min(num_list),max(num_list),"{0:.2f}".format(statistics.mean(num_list)),"{0:.2f}".format(statistics.stdev(num_list)),"{0:.2f}".format(statistics.variance(num_list)))
+print("\nId : 20CS074")
+print("\nName : Mandar Sanghavi")
